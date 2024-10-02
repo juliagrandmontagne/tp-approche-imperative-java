@@ -12,7 +12,7 @@ public class DeclarationApp {
         boolean var8 = true ;
         String var9 = "helloword";
         System.out.println(var7);
-        String randomString = "Voici le résultat d’un calcul : 1+5=6";
+        String randomString = "Voici le résultat d’un calcul :/n 1+5=6";
         System.out.println(randomString);
     }
 }
