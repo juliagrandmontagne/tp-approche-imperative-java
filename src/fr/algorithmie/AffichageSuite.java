@@ -4,7 +4,7 @@ public class AffichageSuite {
     public static void main(String[] args)
     {
         //Utiliser une boucle for pour afficher tous les nombres de 1 à 10 inclus
-       /* for ( int i = 1; i <= 10; i++)
+        for ( int i = 1; i <= 10; i++)
         {
             System.out.println(i);
         }
@@ -31,7 +31,7 @@ public class AffichageSuite {
         {
             System.out.println(k);
             k = k+2;
-        }*/
+        }
         //Utiliser une boucle while pour afficher tous les nombres impairs entre 0 et 9 inclus
         int l = 1;
         while (l <= 10)
