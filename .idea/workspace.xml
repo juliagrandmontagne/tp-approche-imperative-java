@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3544bfba-2e06-47bf-b8b4-0a13fd8db4bd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/fr/algorithmie/InversionContenu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/fr/algorithmie/AffichageInverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/algorithmie/AffichageInverse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/fr/algorithmie/AffichageSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/algorithmie/AffichageSuite.java" afterDir="false" />
@@ -43,6 +44,7 @@
   "keyToString": {
     "Application.AffichageIdentite.executor": "Run",
     "Application.AffichageInverse.executor": "Run",
+    "Application.AffichagePartiel.executor": "Run",
     "Application.AffichageSuite.executor": "Run",
     "Application.Bonjour.executor": "Run",
     "Application.DeclarationApp.executor": "Run",
@@ -66,9 +68,22 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.InversionContenu">
+  <component name="RunManager" selected="Application.AffichagePartiel">
     <configuration name="AffichageInverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fr.algorithmie.AffichageInverse" />
+      <module name="Approche-imperative" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.algorithmie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AffichagePartiel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.algorithmie.AffichagePartiel" />
       <module name="Approche-imperative" />
       <extension name="coverage">
         <pattern>
@@ -86,19 +101,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="fr.algorithmie.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExerciceDeclarationTab" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fr.tableaux.ExerciceDeclarationTab" />
-      <module name="Approche-imperative" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fr.tableaux.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AffichagePartiel" />
         <item itemvalue="Application.InversionContenu" />
         <item itemvalue="Application.AffichageInverse" />
         <item itemvalue="Application.AffichageSuite" />
         <item itemvalue="Application.ExerciceTableauChaines" />
-        <item itemvalue="Application.ExerciceDeclarationTab" />
       </list>
     </recent_temporary>
   </component>
