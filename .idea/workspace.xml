@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3544bfba-2e06-47bf-b8b4-0a13fd8db4bd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fr/algorithmie/FirstLast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/algorithmie/FirstLast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fr/algorithmie/Rotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/algorithmie/Rotation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +59,7 @@
     "Application.InteractifPlusGrand.executor": "Run",
     "Application.InteractifPlusMoins.executor": "Run",
     "Application.InteractifSommeArithmetique.executor": "Run",
+    "Application.InteractifStockageNombre.executor": "Run",
     "Application.InteractifTableMult.executor": "Run",
     "Application.InteractifTantQue.executor": "Run",
     "Application.InversionContenu.executor": "Run",
@@ -86,7 +84,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.FirstLast6">
+  <component name="RunManager" selected="Application.InteractifStockageNombre">
     <configuration name="FirstLast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fr.algorithmie.FirstLast" />
       <module name="Approche-imperative" />
@@ -113,8 +111,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InteractifPlusGrand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fr.algorithmie.InteractifPlusGrand" />
+    <configuration name="InteractifPlusMoins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.algorithmie.InteractifPlusMoins" />
       <module name="Approche-imperative" />
       <extension name="coverage">
         <pattern>
@@ -126,8 +124,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InteractifPlusMoins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fr.algorithmie.InteractifPlusMoins" />
+    <configuration name="InteractifStockageNombre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.algorithmie.InteractifStockageNombre" />
       <module name="Approche-imperative" />
       <extension name="coverage">
         <pattern>
@@ -154,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InteractifStockageNombre" />
         <item itemvalue="Application.FirstLast6" />
         <item itemvalue="Application.FirstLast" />
         <item itemvalue="Application.InteractifPlusMoins" />
         <item itemvalue="Application.Rotation" />
-        <item itemvalue="Application.InteractifPlusGrand" />
       </list>
     </recent_temporary>
   </component>
