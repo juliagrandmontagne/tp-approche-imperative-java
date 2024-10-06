@@ -63,6 +63,7 @@
     "Application.InteractifStockageNombre.executor": "Run",
     "Application.InteractifTableMult.executor": "Run",
     "Application.InteractifTantQue.executor": "Run",
+    "Application.Interfactif21Batons.executor": "Run",
     "Application.InversionContenu.executor": "Run",
     "Application.RechercheMax.executor": "Run",
     "Application.RechercheMin.executor": "Run",
@@ -85,7 +86,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.InteractifFibonacci">
+  <component name="RunManager" selected="Application.Interfactif21Batons">
     <configuration name="FirstLast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fr.algorithmie.FirstLast" />
       <module name="Approche-imperative" />
@@ -125,19 +126,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InteractifPlusMoins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fr.algorithmie.InteractifPlusMoins" />
-      <module name="Approche-imperative" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fr.algorithmie.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="InteractifStockageNombre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fr.algorithmie.InteractifStockageNombre" />
       <module name="Approche-imperative" />
@@ -151,13 +139,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Interfactif21Batons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.algorithmie.Interfactif21Batons" />
+      <module name="Approche-imperative" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.algorithmie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Interfactif21Batons" />
         <item itemvalue="Application.InteractifFibonacci" />
         <item itemvalue="Application.InteractifStockageNombre" />
         <item itemvalue="Application.FirstLast6" />
         <item itemvalue="Application.FirstLast" />
-        <item itemvalue="Application.InteractifPlusMoins" />
       </list>
     </recent_temporary>
   </component>
